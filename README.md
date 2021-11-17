@@ -18,4 +18,4 @@ The time we greeted you.
 
 uses: actions/hello-world-docker-action@v1
 with:
-  who-to-greet: 'Juan el Tocino'
+  who-to-greet: 'Juan el Tocino' 
