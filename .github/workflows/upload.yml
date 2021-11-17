@@ -1,7 +1,7 @@
 on: push
 name: deploy
 jobs:
-  build-and-push:
+  deploy:
     name: build and push image
     runs-on: ubuntu-latest
     steps:
