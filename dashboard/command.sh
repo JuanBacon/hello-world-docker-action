@@ -1,0 +1,1 @@
+./jmeter.sh -n -t /home/vagrant/jmeter-project/test_1/test.jmx -l /home/vagrant/jmeter-project/test_1/log.jtl -e -o /home/vagrant/jmeter-project/test_1/result
